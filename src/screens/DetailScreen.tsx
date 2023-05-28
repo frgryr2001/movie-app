@@ -1,6 +1,5 @@
 import {StackScreenProps} from '@react-navigation/stack';
 import React, {FC} from 'react';
-// import Icon from 'react-native-vector-icons/Ionicons';
 import {
   ActivityIndicator,
   Dimensions,
